@@ -1,0 +1,6 @@
+model_checkpoint_path: "output-4999"
+all_model_checkpoint_paths: "output-2999"
+all_model_checkpoint_paths: "output-3499"
+all_model_checkpoint_paths: "output-3999"
+all_model_checkpoint_paths: "output-4499"
+all_model_checkpoint_paths: "output-4999"

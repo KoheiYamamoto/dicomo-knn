@@ -1,0 +1,24 @@
+{
+	"image_format": "png",
+	"width": 240,
+	"height": 240,
+	"dump_dir": "output/test_images",
+	"image_dest": "output/TFtest.images",
+	"label_dest": "output/TFtest.labels",
+	"dirs": [{
+			"directory": "input/test/asi",
+			"label": 0
+		}, {
+			"directory": "input/test/ude",
+			"label": 1
+		}, {
+			"directory": "input/test/mayu",
+			"label": 2
+		}, {
+			"directory": "input/test/hige",
+			"label": 3
+		}, {
+			"directory": "input/test/kami",
+			"label": 4
+		}]
+}
