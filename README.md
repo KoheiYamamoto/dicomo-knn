@@ -1,6 +1,5 @@
 # TF Image Classification, "K"NN at Night session
-image classification system for any set of images reusably.
+Image classification runs for classifying human hairs (but can run for any set of images).
+Five subjects were tested in our case (3 males and 2 females)
 
-Data sets are images from various parts of a human body, collected from five subjects or so. 
-
-Ref. [ryanwebber](https://github.com/ryanwebber/tensorflow-image-classification)
+With reference to [ryanwebber](https://github.com/ryanwebber/tensorflow-image-classification)
